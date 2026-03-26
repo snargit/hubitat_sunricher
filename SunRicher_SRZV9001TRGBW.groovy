@@ -36,7 +36,7 @@ metadata {
         name: "Sunricher SR-ZV9001T-RGBW Wall Panel",
         namespace: "copilot.sunricher",
         author: "Microsoft Copilot",
-        importUrl: ""
+        importUrl: "https://raw.githubusercontent.com/snargit/hubitat_sunricher/refs/heads/main/SunRicher_SRZV9001TRGBW.groovy"
     ) {
         capability "Actuator"
         capability "Sensor"
